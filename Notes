@@ -1,0 +1,16 @@
+NodeMon - ek package hai jo automatic file ko run karta hai save hone par
+syntax= nodemon index or npm start
+Third modules = installed via NPM
+local modules = developers create karta hai
+here we used require keyword to call modules while in react we used import 
+module.exports= name jisko export karna hai ==> now u can use this module anywhere  , it is default expoert
+if u want to do more than 2 things export then u cant use default export u have to use named export
+named expoert=> module.exports={ name of all which u want to export} 
+
+Express Js = it is a lightweight and flexible node.js web application framework
+usign this = u can use MVC package model view controller
+if project bohot bada= use express
+express js simplifies=
+1. routing - http ka use karke karta hai , methods=Get,Post,Put,delete ,etc supports dynamic and nested routes
+2. middleware = main route or functionality k bich mai kaam karta hai
+3. RestFul API support
